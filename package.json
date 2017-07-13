@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/anoopmd/karma-jasmine-example/issues"
   },
-  "homepage": "https://github.com/anoopmd/karma-jasmine-example#readme"
+  "homepage": "https://github.com/anoopmd/karma-jasmine-example#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
 }
