@@ -1,0 +1,24 @@
+{
+  "name": "karma-jasmine-example",
+  "version": "1.0.0",
+  "description": "Karma Jasmin Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoopmd/karma-jasmine-example.git"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "bdd"
+  ],
+  "author": "Anoop M D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoopmd/karma-jasmine-example/issues"
+  },
+  "homepage": "https://github.com/anoopmd/karma-jasmine-example#readme"
+}
